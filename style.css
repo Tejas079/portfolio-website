@@ -1,0 +1,50 @@
+
+body {
+    margin: 0;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+.main-container {
+    position: absolute;
+    margin: 10px 60px;
+    padding: 10px 20px;
+   
+}
+
+img{
+    float: left;
+    width:28%;
+    height: 90vh;
+    margin: 0;
+    
+    
+}
+.content-div {
+    width: 68%;
+    float: right;
+    height: 90vh;
+    margin: 0px 20px;
+    
+}
+
+p{
+    width: 75%;
+    padding-left: 10px;
+}
+
+
+h2,h4,h5{
+    padding-left: 10px;
+}
+
+.btn{
+    
+    width: 10%;
+    height: 5%;
+    margin-left: 10%;
+    background-color: rgb(87, 87, 224);
+    color: rgb(0, 0, 0);
+
+}
